@@ -7,34 +7,22 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/github/v/release/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=VERSION&amp;color=4FC921" alt="version" />
-  <img src="https://img.shields.io/github/last-commit/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=LAST%20COMMIT&amp;color=5B8CFF" alt="last commit" />
-  <img src="https://img.shields.io/badge/LICENSE-%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8-A78BFA?style=for-the-badge" alt="license" />
-  <img src="https://img.shields.io/badge/UI-Apple%20Glassmorphism-22D3EE?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="UI" />
+  <img src="https://img.shields.io/github/v/release/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=VERSION&amp;color=4FC921" alt="version" />&nbsp;<img src="https://img.shields.io/github/last-commit/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=LAST%20COMMIT&amp;color=5B8CFF" alt="last commit" />&nbsp;<img src="https://img.shields.io/badge/LICENSE-%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8-A78BFA?style=for-the-badge" alt="license" />&nbsp;<img src="https://img.shields.io/badge/UI-Apple%20Glassmorphism-22D3EE?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="UI" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Chrome-支持-4FC921?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome" />
-  <img src="https://img.shields.io/badge/Edge-支持-0078D6?style=for-the-badge&amp;logo=microsoftedge&amp;logoColor=white" alt="Edge" />
-  <img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />
-  <a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E8%8C%B6%E5%AE%9D%E5%96%9D%E5%A5%B6%E8%8C%B6-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
+  <img src="https://img.shields.io/badge/Chrome-支持-4FC921?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome" />&nbsp;<img src="https://img.shields.io/badge/Edge-支持-0078D6?style=for-the-badge&amp;logo=microsoftedge&amp;logoColor=white" alt="Edge" />&nbsp;<img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />&nbsp;<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />&nbsp;<a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E8%8C%B6%E5%AE%9D%E5%96%9D%E5%A5%B6%E8%8C%B6-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/XHazz1/JKP-Douyin?style=flat-square&amp;label=Star&amp;color=FFD166" alt="stars" />
-  <img src="https://img.shields.io/github/forks/XHazz1/JKP-Douyin?style=flat-square&amp;label=Fork&amp;color=5B8CFF" alt="forks" />
-  <img src="https://img.shields.io/github/issues/XHazz1/JKP-Douyin?style=flat-square&amp;label=Issues&amp;color=FB7185" alt="issues" />
-  <img src="https://img.shields.io/badge/PRs-welcome-22D3EE?style=flat-square" alt="PRs welcome" />
-  <img src="https://komarev.com/ghpvc/?username=XHazz1&amp;repo=JKP-Douyin&amp;label=Views&amp;color=5B8CFF&amp;style=flat-square" alt="views" />
+  <img src="https://img.shields.io/badge/%E4%BD%BF%E7%94%A8%E9%87%8F-10w%2B-4FC921?style=flat-square" alt="usage" />&nbsp;<img src="https://img.shields.io/github/stars/XHazz1/JKP-Douyin?style=flat-square&amp;label=Star&amp;color=FFD166" alt="stars" />&nbsp;<img src="https://img.shields.io/github/forks/XHazz1/JKP-Douyin?style=flat-square&amp;label=Fork&amp;color=5B8CFF" alt="forks" />&nbsp;<img src="https://img.shields.io/github/issues/XHazz1/JKP-Douyin?style=flat-square&amp;label=Issues&amp;color=FB7185" alt="issues" />&nbsp;<img src="https://img.shields.io/badge/PRs-welcome-22D3EE?style=flat-square" alt="PRs welcome" />&nbsp;<img src="https://komarev.com/ghpvc/?username=XHazz1&amp;repo=JKP-Douyin&amp;label=Views&amp;color=5B8CFF&amp;style=flat-square" alt="views" />
 </p>
 
 <br/>
 
 <a href="https://github.com/XHazz1/JKP-Douyin/releases/latest">
   <img src="https://img.shields.io/badge/%E2%AC%87%20%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88-v2.3.2-1D4ED8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" height="42" alt="download latest" />
-</a>
-<a href="https://github.com/XHazz1/JKP-Douyin">
+</a>&nbsp;<a href="https://github.com/XHazz1/JKP-Douyin">
   <img src="https://img.shields.io/badge/%E2%AD%90%20Star-%E6%94%AF%E6%8C%81%E4%B8%80%E4%B8%8B-FFD166?style=for-the-badge" height="42" alt="star" />
 </a>
 
