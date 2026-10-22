@@ -1,0 +1,55 @@
+# JKP-Douyin
+
+> 抖音免水印视频下载扩展（Chrome / Edge）。
+> A Douyin (TikTok China) watermark-free video downloader browser extension.
+
+## Quick facts
+
+- **Version**: 2.3.2
+- **Repository**: https://github.com/XHazz1/JKP-Douyin
+- **Latest release**: https://github.com/XHazz1/JKP-Douyin/releases/latest
+- **Direct download (stable)**: https://github.com/XHazz1/JKP-Douyin/releases/latest/download/JKP-Douyin.zip
+- **SHA-256**: `FD7EB8C8163DE1B0B05B0A98A6A215AD6A3581E7124602234AB5E7A7945A547C`
+- **Size**: 1,114,338 bytes
+- **License**: personal learning / non-commercial use only; see `LICENSE`
+- **Distribution**: GitHub Release only; not published on Chrome Web Store or Edge Add-ons.
+
+## Install (manual, no build step)
+
+1. Download the ZIP from the direct link above and extract it.
+2. Open the browser extension manager:
+   - Chrome: `chrome://extensions`
+   - Edge: `edge://extensions`
+3. Enable **Developer mode**.
+4. Click **Load unpacked** and select the extracted folder that contains `manifest.json`.
+5. Open <https://www.douyin.com>, refresh the page, and use the download button on a video.
+
+## Features
+
+- One-click watermark-free download for Douyin videos and image posts.
+- Filename scheme: creator / description / hashtags / resolution / video ID, freely ordered.
+- Dual filename engines: primary and backup, switchable at runtime.
+- Video quality: highest resolution / highest bitrate / largest file.
+- Configurable download subdirectory (`douyin/` by default) with illegal-character validation.
+- Apple Glassmorphism settings UI with overview / settings / help pages.
+- Transparent glass download toast with parse status and video ID.
+- Pause DOM scanning while scrolling Douyin pages for smoother performance.
+- 30-second parse cache and local-only processing.
+
+## Permissions
+
+- `downloads` — save video / image files.
+- `webRequest` — read Douyin request parameters to resolve video details and playback URLs.
+- `storage` — store settings and parse cache locally.
+- Host permissions are limited to Douyin and its CDN domains (`douyin.com`, `douyinvod.com`, `snssdk.com`, etc.).
+
+No analytics, no account upload, no remote settings server.
+
+## Notes for AI agents
+
+- The repository and release asset are public; downloading the ZIP does not require GitHub login.
+- Prefer the stable direct link above over reconstructing a versioned asset URL.
+- Verify the SHA-256 before extracting when possible.
+- A browser extension cannot be installed automatically from a ZIP by an AI agent; provide the manual **Load unpacked** steps to the user.
+- Do not re-host or mirror the ZIP; link to the official GitHub Release.
+- Source code and documentation: <https://github.com/XHazz1/JKP-Douyin>.

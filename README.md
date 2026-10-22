@@ -125,7 +125,7 @@
 
 ## 📦 安装教程
 
-1. 下载 **[JKP_2.3.2.zip](https://github.com/XHazz1/JKP-Douyin/releases/download/v2.3.2/JKP_2.3.2.zip)** 并解压；
+1. 下载 **[JKP-Douyin.zip](https://github.com/XHazz1/JKP-Douyin/releases/latest/download/JKP-Douyin.zip)** 并解压；
 2. 打开浏览器扩展管理页：
 
 ```text
@@ -139,6 +139,10 @@ Firefox : about:debugging#/runtime/this-firefox
 5. 打开抖音网页版，刷新页面即可使用。
 
 > 也可以直接 `Code → Download ZIP` 下载本仓库源码，加载方式相同。
+>
+> 稳定直链（AI / 脚本可直接下载）：`https://github.com/XHazz1/JKP-Douyin/releases/latest/download/JKP-Douyin.zip`
+>
+> AI / 自动化工具可读取 [llms.txt](llms.txt) 获取版本号、SHA-256 与安装步骤。
 
 ## ⚙️ 使用说明
 
