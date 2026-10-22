@@ -54,6 +54,7 @@
 - 📈 项目数据
 - ❓ 常见问题
 - 💖 支持作者
+- 🔎 搜索关键词
 - ⚖️ 声明与禁止事项
 - 🧋 赞助支持
 
@@ -278,6 +279,12 @@ Firefox : about:debugging#/runtime/this-firefox
 
 - 抖音：[伐浩](https://www.douyin.com/user/MS4wLjABAAAApL6WdWT0Fi-l8bPuo5UpBDXhzYs0zC9i7V06NypCGmK4ZmO5GAKfSyHo_RYMsOm6?from_tab_name=main)
 - B 站：[space.bilibili.com/493062255](https://space.bilibili.com/493062255)
+
+## 🔎 搜索关键词 / Keywords
+
+**中文**：抖音去水印 · 抖音视频下载 · 抖音下载器 · 抖音无水印 · 抖音扩展 · Chrome 扩展 · Edge 扩展 · 浏览器扩展 · 视频下载器 · 图集下载 · 双文件名引擎 · JKP-Douyin
+
+**English**: Douyin downloader · Douyin video downloader · Douyin watermark remover · no watermark · Chrome extension · Edge extension · browser extension · video downloader · JKP-Douyin
 
 ## ⚖️ 声明与禁止事项
 
