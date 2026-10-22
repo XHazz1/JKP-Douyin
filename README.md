@@ -248,10 +248,6 @@ Firefox : about:debugging#/runtime/this-firefox
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XHazz1&amp;repo=JKP-Douyin&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="98%" alt="activity" />
-</div>
-
-<div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=XHazz1/JKP-Douyin&type=Date)](https://star-history.com/#XHazz1/JKP-Douyin&Date)
 
