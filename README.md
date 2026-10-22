@@ -3,13 +3,13 @@
 <img src="docs/banner.svg" width="100%" alt="JKP-Douyin · 专注于抖音视频下载" />
 
 <a href="https://github.com/XHazz1/JKP-Douyin/releases/latest">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Focus+on+Douyin+video+download;No+watermark+%C2%B7+One+click+%C2%B7+Fast+parse;Apple+Glassmorphism+UI+%C2%B7+Dual+filename+engines;Smooth+scroll+%C2%B7+Local+%26+private" alt="JKP-Douyin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Microsoft+YaHei&weight=600&size=21&pause=1200&color=67E8F9&center=true&vCenter=true&width=860&lines=JKP-Douyin+%C2%B7+%E4%B8%93%E6%B3%A8%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD;%E5%85%8D%E6%B0%B4%E5%8D%B0+%C2%B7+%E4%B8%80%E9%94%AE%E4%BF%9D%E5%AD%98+%C2%B7+%E6%9C%AC%E5%9C%B0%E8%A7%A3%E6%9E%90;Apple+Glassmorphism+UI;%E5%8F%8C%E6%96%87%E4%BB%B6%E5%90%8D%E5%BC%95%E6%93%8E+%C2%B7+%E4%B8%8A%E4%B8%8B%E6%BB%9A%E5%8A%A8%E6%9B%B4%E9%A1%BA" alt="JKP-Douyin" />
 </a>
 
 <p>
   <img src="https://img.shields.io/github/v/release/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=VERSION&amp;color=4FC921" alt="version" />
   <img src="https://img.shields.io/github/last-commit/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=LAST%20COMMIT&amp;color=5B8CFF" alt="last commit" />
-  <img src="https://img.shields.io/github/license/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=LICENSE&amp;color=A78BFA" alt="license" />
+  <img src="https://img.shields.io/badge/LICENSE-%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8-A78BFA?style=for-the-badge" alt="license" />
   <img src="https://img.shields.io/badge/UI-Apple%20Glassmorphism-22D3EE?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="UI" />
 </p>
 
