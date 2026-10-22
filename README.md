@@ -308,10 +308,12 @@ Firefox : about:debugging#/runtime/this-firefox
 
 <div align="center">
   <a href="https://github.com/XHazz1/JKP-Douyin/blob/main/docs/sponsor-qr.png">
-    <img src="docs/sponsor-tea.png" width="78%" alt="请作者喝一杯茶" />
+    <img src="docs/sponsor-hero.png" width="82%" alt="JKP-Douyin 赞助计划：请作者喝一杯茶" />
   </a>
   <br/>
   <sub>扫码请作者喝一杯茶 · 赞助完全自愿，扩展功能永久免费</sub>
+  <br/>
+  <sub>赞助计划吉祥物：Q 版珍珠奶茶「茶宝」</sub>
 </div>
 
 ### 📱 三步请茶
