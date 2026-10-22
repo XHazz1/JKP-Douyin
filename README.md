@@ -1,39 +1,181 @@
 <div align="center">
 
-<img src="jkp_logo.png" width="128" />
+<img src="docs/banner.svg" width="100%" alt="JKP-Douyin · 专注于抖音视频下载" />
 
-> Douyin Video Downloader —— 抖音免水印视频下载扩展
+<a href="https://github.com/XHazz1/JKP-Douyin/releases/latest">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&amp;weight=600&amp;size=21&amp;pause=1200&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Focus+on+Douyin+video+download;No+watermark+%C2%B7+One+click+%C2%B7+Fast+parse;Apple+Glassmorphism+UI+%C2%B7+Dual+filename+engines;Smooth+scroll+%C2%B7+Local+%26+private" alt="JKP-Douyin" />
+</a>
 
-[![版本](https://img.shields.io/badge/版本-v2.3.2-4FC921)](https://github.com/XHazz1/JKP-Douyin/releases)
-[![下载量](https://img.shields.io/github/downloads/XHazz1/JKP-Douyin/total?label=下载量)](https://github.com/XHazz1/JKP-Douyin/releases)
-[![Star](https://img.shields.io/github/stars/XHazz1/JKP-Douyin?label=Star)](https://github.com/XHazz1/JKP-Douyin/stargazers)
-[![Fork](https://img.shields.io/github/forks/XHazz1/JKP-Douyin?label=Fork)](https://github.com/XHazz1/JKP-Douyin/forks)
+<p>
+  <img src="https://img.shields.io/github/v/release/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=VERSION&amp;color=4FC921" alt="version" />
+  <img src="https://img.shields.io/github/last-commit/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=LAST%20COMMIT&amp;color=5B8CFF" alt="last commit" />
+  <img src="https://img.shields.io/github/license/XHazz1/JKP-Douyin?style=for-the-badge&amp;label=LICENSE&amp;color=A78BFA" alt="license" />
+  <img src="https://img.shields.io/badge/UI-Apple%20Glassmorphism-22D3EE?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="UI" />
+</p>
 
-[![Chrome](https://img.shields.io/badge/Chrome-支持-4FC921?logo=googlechrome&logoColor=white)]()
-[![Edge](https://img.shields.io/badge/Edge-支持-0078D6?logo=microsoftedge&logoColor=white)]()
-[![Firefox](https://img.shields.io/badge/Firefox-支持-FF7139?logo=firefox&logoColor=white)]()
+<p>
+  <img src="https://img.shields.io/badge/Chrome-支持-4FC921?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome" />
+  <img src="https://img.shields.io/badge/Edge-支持-0078D6?style=for-the-badge&amp;logo=microsoftedge&amp;logoColor=white" alt="Edge" />
+  <img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/downloads/XHazz1/JKP-Douyin/total?style=flat-square&amp;label=下载&amp;color=4FC921" alt="downloads" />
+  <img src="https://img.shields.io/github/stars/XHazz1/JKP-Douyin?style=flat-square&amp;label=Star&amp;color=FFD166" alt="stars" />
+  <img src="https://img.shields.io/github/forks/XHazz1/JKP-Douyin?style=flat-square&amp;label=Fork&amp;color=5B8CFF" alt="forks" />
+  <img src="https://img.shields.io/github/issues/XHazz1/JKP-Douyin?style=flat-square&amp;label=Issues&amp;color=FB7185" alt="issues" />
+  <img src="https://img.shields.io/badge/PRs-welcome-22D3EE?style=flat-square" alt="PRs welcome" />
+  <img src="https://komarev.com/ghpvc/?username=XHazz1&amp;repo=JKP-Douyin&amp;label=Views&amp;color=5B8CFF&amp;style=flat-square" alt="views" />
+</p>
+
+<br/>
+
+<a href="https://github.com/XHazz1/JKP-Douyin/releases/latest">
+  <img src="https://img.shields.io/badge/%E2%AC%87%20%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%89%88-v2.3.2-1D4ED8?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" height="42" alt="download latest" />
+</a>
+<a href="https://github.com/XHazz1/JKP-Douyin">
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Star-%E6%94%AF%E6%8C%81%E4%B8%80%E4%B8%8B-FFD166?style=for-the-badge" height="42" alt="star" />
+</a>
 
 </div>
 
-# JKP-Douyin（专注于抖音视频下载）
+---
 
-> Douyin Video Downloader —— 抖音免水印视频下载扩展
+<div align="center">
 
-## 版本
-- **正式版：2.3.2**
-- 年份版：2026.10.23
+**刷抖音看到想收藏的视频？点一下就能免水印下载。**
 
-作者：伐浩（个人制作） https://b23.tv/hD8Kcri
+全新 Apple Glassmorphism 设置界面 · 主要生成 / 2号生成双文件名引擎 · 解析更快 · 上下滚动更顺
 
-> 上游项目：[HaoBaB521/JKP-Video-Downloader](https://github.com/HaoBaB521/JKP-Video-Downloader)
+</div>
 
-（所有问题我不承担，也别联系我。扩展一些小毛病问题，可以在 B 站评论一下，但是不一定能回复。）
+<details open>
+<summary><b>📖 目录</b></summary>
 
-## 版本历史
+- ✨ 为什么选择 JKP-Douyin
+- 🎬 动态预览
+- 🖼 界面一览
+- 🚀 核心能力
+- 📦 安装教程
+- ⚙️ 使用说明
+- 🛡 权限与隐私
+- 🗓 版本历史
+- 🔥 本次更新 v2.3.2
+- 📜 更新日志
+- 📈 项目数据
+- ❓ 常见问题
+- 💖 支持作者
+- ⚖️ 声明与禁止事项
+
+</details>
+
+## ✨ 为什么选择 JKP-Douyin
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚡ 极速解析</h3>
+      <sub>页面数据与播放地址并行读取，最多 1.5 秒就开始下载，不再被长时间解析卡住</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎬 免水印下载</h3>
+      <sub>抖音视频、图集、作者主页、点赞收藏、历史记录，看到按钮就能一键保存</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🧩 双文件名引擎</h3>
+      <sub>主要生成 / 2号生成两套逻辑，自动兜底；作者、描述、标签、分辨率、视频 ID 自由排序</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🪟 Apple Glassmorphism</h3>
+      <sub>独立轻量设置页：概览 / 设置 / 帮助，透明玻璃提示，官方品牌图标</sub>
+    </td>
+    <td align="center">
+      <h3>🛞 丝滑滚动</h3>
+      <sub>抖音页面滑动时暂停 DOM 扫描，设置页去除实时模糊与常驻动画</sub>
+    </td>
+    <td align="center">
+      <h3>🔒 本地运行</h3>
+      <sub>解析与设置都在浏览器本地完成，不上传账号、链接或下载记录</sub>
+    </td>
+  </tr>
+</table>
+
+## 🎬 动态预览
+
+<div align="center">
+  <img src="docs/preview.gif" width="92%" alt="JKP-Douyin 动态预览" />
+  <br/>
+  <sub>概览 → 设置 → 帮助 → 下载提示</sub>
+</div>
+
+## 🖼 界面一览
+
+| 概览 | 设置 |
+| :---: | :---: |
+| <img src="docs/options-home.png" width="430" alt="概览" /> | <img src="docs/options-settings.png" width="430" alt="设置" /> |
+
+| 帮助 | 透明下载提示 |
+| :---: | :---: |
+| <img src="docs/options-help.png" width="430" alt="帮助" /> | <img src="docs/snackbar.png" width="430" alt="下载提示" /> |
+
+## 🚀 核心能力
+
+| 能力 | 说明 |
+| :--- | :--- |
+| 🎯 **一键下载** | 播放器悬停按钮 / 卡片下载图标，点击即可保存 |
+| 🧬 **双解析引擎** | 页面详情 → 接口详情 → 内容脚本解析，逐级兜底 |
+| 🏷 **文件名方案** | 作者 / 描述 / 标签 / 视频分辨率 / 视频 ID，自由排序与实时预览 |
+| 🎚 **视频质量** | 最高分辨率 / 最高码率 / 最大文件大小 |
+| 📁 **下载子目录** | 支持默认 `douyin/` 或自定义目录，自动校验非法字符 |
+| 🔔 **下载提示** | 解析信息 / 开始下载 / 下载完成三类提示，可分别开关 |
+| 🎨 **双文件名逻辑** | 主要生成 / 2号生成，切换后立即按新模式解析 |
+| 🧠 **30 秒缓存** | 同一视频重复下载不再重复解析 |
+
+## 📦 安装教程
+
+1. 下载 **[JKP_2.3.2.zip](https://github.com/XHazz1/JKP-Douyin/releases/download/v2.3.2/JKP_2.3.2.zip)** 并解压；
+2. 打开浏览器扩展管理页：
+
+```text
+Chrome  : chrome://extensions
+Edge    : edge://extensions
+Firefox : about:debugging#/runtime/this-firefox
+```
+
+3. 开启「开发者模式」（Firefox 选择「临时载入附加组件」）；
+4. 点击「加载已解压的扩展程序」，选择解压出的文件夹（内含 `manifest.json` 的那一层）；
+5. 打开抖音网页版，刷新页面即可使用。
+
+> 也可以直接 `Code → Download ZIP` 下载本仓库源码，加载方式相同。
+
+## ⚙️ 使用说明
+
+- **视频文件名**：在设置页选择属性并调整顺序，下方会实时预览最终文件名；
+- **视频质量**：三档可选，默认「最高分辨率」；
+- **下载子目录**：开启后会按设置保存到 `douyin/` 或自定义文件夹；
+- **下载提示**：可关闭解析 / 开始 / 完成提示；
+- **文件名生成逻辑**：默认「主要生成」，识别不到作者/描述时切换到「2号生成」；
+- **快捷键**：设置页支持 `Ctrl + S` 保存、`Ctrl + K` 搜索。
+
+## 🛡 权限与隐私
+
+| 权限 | 用途 |
+| :--- | :--- |
+| `downloads` | 保存视频 / 图集文件 |
+| `webRequest` | 读取抖音请求参数，完成视频详情与播放地址解析 |
+| `storage` | 保存设置与解析缓存 |
+| `host_permissions` | 仅限抖音及其 CDN 域名（`douyin.com`、`douyinvod.com`、`snssdk.com` 等） |
+
+本扩展不包含统计、不上传数据；所有设置与解析结果都保存在浏览器本地。
+
+## 🗓 版本历史
 
 | 版本 | 日期 | 主要变化 |
-| --- | --- | --- |
-| v2.3.2 | 2026.10.23 | 全新设置 UI、透明下载提示、双文件名逻辑/标签/子目录修复、滚动优化 |
+| :---: | :---: | :--- |
+| **v2.3.2** | 2026.10.23 | 全新设置 UI、透明下载提示、双文件名逻辑/标签/子目录修复、滚动优化 |
 | v2.3.1 | 2026.10.19 | 解析提速、稳定性修复、双文件名生成逻辑 |
 | v2.3 | 2026.10.19 | 解析全面提速、移除推荐流卡片按钮 |
 | v2.2 | 2026.10.15 | 推荐流卡片按钮、解析下载并行、设置页改版 |
@@ -44,7 +186,7 @@
 > [v2.2](https://github.com/HaoBaB521/JKP-Video-Downloader/releases/tag/v2.2) ·
 > [v2.1](https://github.com/HaoBaB521/JKP-Video-Downloader/releases/tag/v2.1)
 
-## 本次更新（v2.3.2）
+## 🔥 本次更新 v2.3.2
 
 ### ✨ 新增
 - 设置页重构为独立轻量界面：概览 / 设置 / 帮助三个页面
@@ -74,64 +216,82 @@
 - 统一 README、版本号、发布说明与安装包命名
 - 页面解析请求增加抖音域名白名单
 
-## 界面预览
-
-| 概览 | 设置 |
-| --- | --- |
-| ![概览](docs/options-home.png) | ![设置](docs/options-settings.png) |
-
-| 帮助 | 下载提示 |
-| --- | --- |
-| ![帮助](docs/options-help.png) | ![提示](docs/snackbar.png) |
-
-## 安装教程
-1. 下载 [JKP_2.3.2.zip](https://github.com/XHazz1/JKP-Douyin/releases/download/v2.3.2/JKP_2.3.2.zip) 并解压；
-2. 打开浏览器扩展管理页（Chrome: `chrome://extensions` / Edge: `edge://extensions` / Firefox: `about:debugging`）；
-3. 开启「开发者模式」（Firefox 选择「临时载入附加组件」）；
-4. 点击「加载已解压的扩展程序」，选择解压出的文件夹（内含 `manifest.json` 的那一层）；
-5. 打开抖音网页版，刷新页面即可使用。
-
-支持浏览器：**Google Chrome / Microsoft Edge / Mozilla Firefox**（Chromium / Firefox 内核）
-
-## 主要功能
-
-- 全新 UI：独立轻量设置页（概览 / 设置 / 帮助）、透明玻璃下载提示、全透明下载按钮
-- 解析大幅提速：视频信息和文件名"嗖"一下就出来，不用再傻等（v2.3 重点优化）
-- 双重解析引擎：主要生成 / 2号生成 两种文件名生成逻辑，自动兜底，解析更稳
-- 文件名方案自由排序：作者 / 描述 / 标签 / 视频分辨率 / 视频 ID
-- 并行解析 + 30 秒缓存，点击即出
-- 免水印下载抖音视频
-- 文件名自定义：作者 / 描述 / 分辨率 / 视频 ID
-- 视频质量可选：最高分辨率 / 最高码率 / 最大文件
-- 下载子目录设置
-- 滚动优化：抖音页面滑动时暂停 DOM 扫描，设置页去掉实时模糊，上下滑动更顺
-- 版本说明面板
-
-## 更新日志
+## 📜 更新日志
 
 ### v2.3（2026.10.19）
-- 优化：解析速度全面提速——视频信息和文件名"嗖"一下就出来，不用再傻等
+- 优化：解析速度全面提速——视频信息和文件名“嗖”一下就出来
 - 优化：播放源等待时间大幅缩短，点击下载响应更快
-- 界面：移除推荐流卡片上的下载按钮，只保留播放器内悬停按钮，画面更清爽
-- 界面：联系作者窗口换用抖音、B站官方图标
+- 界面：移除推荐流卡片上的下载按钮，只保留播放器内悬停按钮
+- 界面：联系作者窗口换用抖音、B 站官方图标
 - 修复：修复无法生成视频文件名的问题
 - 修复：修复下载按钮显示异常、多余挂载的问题
 - 修复：修复部分视频解析慢、卡顿的问题
 
 ### v2.2（2026.10.15）
 - 新增：首页推荐流视频卡片自动挂载下载按钮（`content-scripts/jkp_extra.js`）
-- 新增：解析与下载并行，有播放地址立即下载，响应更快
-- 优化：视频详情 iframe 并发解析 1 → 2，解析提速
-- 优化：下载按钮改为全透明无边框样式，不再遮挡画面
-- 优化：设置页全新 Dashboard 风格改版（顶部导航 / 版本说明卡片 / 作者联系面板）
-- 修复：manifest 注册 `jkp_extra.js`，保证新功能加载生效
+- 新增：解析与下载并行，有播放地址立即下载
+- 优化：视频详情 iframe 并发解析 1 → 2
+- 优化：下载按钮改为全透明无边框样式
+- 优化：设置页全新 Dashboard 风格改版
+- 修复：manifest 注册 `jkp_extra.js`
 
 ### v2.1
 - 全新液态玻璃 UI、全透明下载按钮
-- 双重文件名生成逻辑，解析更稳
-- 并行解析 + 30 秒缓存，点击即出
+- 双重文件名生成逻辑
+- 并行解析 + 30 秒缓存
 
-## 声明与禁止事项
+## 📈 项目数据
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=XHazz1&amp;repo=JKP-Douyin&amp;theme=tokyonight&amp;hide_border=true" alt="repo card" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=XHazz1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XHazz1&amp;repo=JKP-Douyin&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="98%" alt="activity" />
+</div>
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XHazz1/JKP-Douyin&type=Date)](https://star-history.com/#XHazz1/JKP-Douyin&Date)
+
+</div>
+
+## ❓ 常见问题
+
+<details>
+<summary><b>为什么页面上没有出现下载按钮？</b></summary>
+
+确认当前页面是抖音网页版（`www.douyin.com`），并且内容已经加载完成；刚安装或刚更新后请刷新页面。
+</details>
+
+<details>
+<summary><b>点击下载后很久没有反应？</b></summary>
+
+新版最多等待 1.5 秒就会用当前播放地址开始下载，详情解析在后台继续；如果仍无响应，刷新页面重试，或切换「文件名生成逻辑」。
+</details>
+
+<details>
+<summary><b>下载的文件名不对 / 作者为空？</b></summary>
+
+在设置里调整「视频文件名」顺序，并尝试把「文件名生成逻辑」切换为「2号生成」；该模式会通过页面卡片元素重新定位作者与描述。
+</details>
+
+<details>
+<summary><b>设置保存后没有生效？</b></summary>
+
+设置保存在浏览器本地，刷新抖音页面后生效；扩展更新或重装后请重新保存一次。
+</details>
+
+## 💖 支持作者
+
+如果这个扩展帮到了你，关注 / 点赞就是最好的支持：
+
+- 抖音：[伐浩](https://www.douyin.com/user/MS4wLjABAAAApL6WdWT0Fi-l8bPuo5UpBDXhzYs0zC9i7V06NypCGmK4ZmO5GAKfSyHo_RYMsOm6?from_tab_name=main)
+- B 站：[space.bilibili.com/493062255](https://space.bilibili.com/493062255)
+
+## ⚖️ 声明与禁止事项
+
 本扩展由作者独立开发，仅供个人学习、研究及技术交流使用。
 
 未经作者明确授权，禁止将本扩展及其修改版本用于任何商业用途，包括但不限于收费、出售、付费引流或其他商业获利行为。
@@ -145,3 +305,13 @@
 禁止利用本扩展从事侵犯他人著作权、隐私权或其他违法违规的活动。
 
 通过本扩展下载的视频仅供个人收藏与学习使用，请勿用于商业用途或二次传播。
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:1d4ed8&amp;height=110&amp;section=footer" width="100%" alt="footer" />
+
+<sub>如果 <b>JKP-Douyin</b> 帮到了你，点一个 ⭐ Star 就是最大的支持</sub>
+
+</div>
