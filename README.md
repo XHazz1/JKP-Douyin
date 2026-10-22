@@ -123,6 +123,7 @@
 | 🔔 **下载提示** | 解析信息 / 开始下载 / 下载完成三类提示，可分别开关 |
 | 🎨 **双文件名逻辑** | 主要生成 / 2号生成，切换后立即按新模式解析 |
 | 🧠 **30 秒缓存** | 同一视频重复下载不再重复解析 |
+| 🧰 **工具箱** | 文件名预设、配置导出 / 导入、恢复默认 |
 
 ## 📦 安装教程
 
@@ -188,6 +189,7 @@ Firefox : about:debugging#/runtime/this-firefox
 - 实时文件名预览、保存路径预览
 - 下载提示改为透明玻璃样式：标题 + 视频 ID 两级显示，解析中呼吸圆点
 - 设置页新增官方品牌图标（抖音 / B 站）与「支持作者」区域
+- 工具箱：文件名预设（经典 / 全属性 / 作者+ID / 仅 ID）、配置导出 / 导入、恢复默认
 
 ### ⚡ 优化
 - 抖音页面上下滑动更顺：滚动时暂停 DOM 扫描，停止滚动后再恢复
@@ -282,9 +284,9 @@ Firefox : about:debugging#/runtime/this-firefox
 
 ## 🔎 搜索关键词 / Keywords
 
-**中文**：抖音去水印 · 抖音视频下载 · 抖音下载器 · 抖音无水印 · 抖音扩展 · Chrome 扩展 · Edge 扩展 · 浏览器扩展 · 视频下载器 · 图集下载 · 双文件名引擎 · JKP-Douyin
+**中文**：抖音去水印 · 抖音视频下载 · 抖音下载器 · 抖音无水印 · 抖音扩展 · Chrome 扩展 · Edge 扩展 · 浏览器扩展 · 视频下载器 · 图集下载 · 双文件名引擎 · 工具箱 · 文件名预设 · 配置备份 · 配置导入导出 · JKP-Douyin
 
-**English**: Douyin downloader · Douyin video downloader · Douyin watermark remover · no watermark · Chrome extension · Edge extension · browser extension · video downloader · JKP-Douyin
+**English**: Douyin downloader · Douyin video downloader · Douyin watermark remover · no watermark · Chrome extension · Edge extension · browser extension · video downloader · toolbox · filename preset · settings backup · config import export · JKP-Douyin
 
 ## ⚖️ 声明与禁止事项
 

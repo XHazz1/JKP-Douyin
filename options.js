@@ -45,6 +45,13 @@
     vid: "7312345678901234567"
   };
 
+  var PRESETS = [
+    { id: "classic", label: "经典三件套", scheme: ["Creator", "Description", "Resolution"] },
+    { id: "full", label: "全属性", scheme: ["Creator", "Description", "Tag", "Resolution", "Vid"] },
+    { id: "simple", label: "作者 + 视频ID", scheme: ["Creator", "Vid"] },
+    { id: "id", label: "仅视频ID", scheme: ["Vid"] }
+  ];
+
   var ILLEGAL_SUBDIR = /[<>:"/\\|?*\n]+/g;
   var VIEW_LABELS = { home: "概览", settings: "设置", help: "帮助" };
 
@@ -606,6 +613,67 @@
     toast("已恢复默认值，点击保存后生效", "info");
   }
 
+  function applyPreset(id) {
+    var preset = null;
+    for (var i = 0; i < PRESETS.length; i += 1) {
+      if (PRESETS[i].id === id) { preset = PRESETS[i]; break; }
+    }
+    if (!preset) return;
+    state.videoFileName.scheme = preset.scheme.slice();
+    renderAll();
+    renderSchemeOptions();
+    toast("已套用预设：" + preset.label, "success");
+  }
+
+  function handleExport() {
+    var payload = {
+      app: "JKP-Douyin",
+      version: "2.3.2",
+      exportedAt: new Date().toISOString(),
+      preferences: clone(state)
+    };
+    var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+    var url = URL.createObjectURL(blob);
+    var link = document.createElement("a");
+    link.href = url;
+    link.download = "JKP-Douyin-settings.json";
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+    toast("配置已导出", "success");
+  }
+
+  function handleImportClick() {
+    if (dom.importFile) dom.importFile.click();
+  }
+
+  function handleImportFile() {
+    var file = dom.importFile && dom.importFile.files && dom.importFile.files[0];
+    if (!file) return;
+    var reader = new FileReader();
+    reader.onload = function () {
+      try {
+        var raw = JSON.parse(String(reader.result || ""));
+        var prefs = raw && raw.preferences ? raw.preferences : raw;
+        var next = normalizePreferences(prefs);
+        var check = validatePreferences(next);
+        if (!check.ok) {
+          toast(check.message, "error");
+        } else {
+          state = next;
+          renderAll();
+          renderSchemeOptions();
+          toast("配置已导入，点击保存后生效", "success");
+        }
+      } catch (error) {
+        toast("配置文件格式不正确", "error");
+      }
+      if (dom.importFile) dom.importFile.value = "";
+    };
+    reader.readAsText(file);
+  }
+
   /* ---------------- 事件绑定 ---------------- */
 
   function bindEvents() {
@@ -717,6 +785,13 @@
 
     if (dom.saveBtn) dom.saveBtn.addEventListener("click", handleSave);
     if (dom.resetBtn) dom.resetBtn.addEventListener("click", handleReset);
+    if (dom.presetList) dom.presetList.addEventListener("click", function (event) {
+      var button = event.target.closest("button[data-preset]");
+      if (button) applyPreset(button.dataset.preset);
+    });
+    if (dom.exportBtn) dom.exportBtn.addEventListener("click", handleExport);
+    if (dom.importBtn) dom.importBtn.addEventListener("click", handleImportClick);
+    if (dom.importFile) dom.importFile.addEventListener("change", handleImportFile);
 
     document.addEventListener("keydown", function (event) {
       var key = String(event.key || "").toLowerCase();
@@ -767,6 +842,10 @@
     dom.saveStatus = document.querySelector(".save-status");
     dom.saveBtn = $("btn-save");
     dom.resetBtn = $("btn-reset");
+    dom.presetList = $("preset-list");
+    dom.exportBtn = $("btn-export");
+    dom.importBtn = $("btn-import");
+    dom.importFile = $("import-file");
     dom.settingsEmpty = $("settings-empty");
     dom.homeScheme = $("home-scheme");
     dom.homeQuality = $("home-quality");

@@ -653,6 +653,11 @@ svg { display: block; }
 
 .scheme-add { display: flex; gap: 8px; margin-top: 12px; }
 
+.preset-list,
+.tool-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.preset-list .btn,
+.tool-actions .btn { flex: 0 0 auto; }
+
 .select {
   flex: 1;
   min-width: 0;

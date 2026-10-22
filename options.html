@@ -393,6 +393,37 @@
               </label>
             </div>
           </section>
+          <section class="setting card" id="card-toolbox" data-search="工具箱 配置 导入 导出 备份 文件名预设 恢复默认 preset config import export backup toolbox">
+            <header class="setting-head">
+              <div>
+                <h2>工具箱</h2>
+                <p>文件名预设、配置备份与恢复，全部在本地完成。</p>
+              </div>
+              <span class="tag">TOOLBOX</span>
+            </header>
+
+            <div class="field">
+              <div class="field-label">文件名预设</div>
+              <div class="preset-list" id="preset-list">
+                <button class="btn btn-soft" type="button" data-preset="classic">经典三件套</button>
+                <button class="btn btn-soft" type="button" data-preset="full">全属性</button>
+                <button class="btn btn-soft" type="button" data-preset="simple">作者 + 视频ID</button>
+                <button class="btn btn-soft" type="button" data-preset="id">仅视频ID</button>
+              </div>
+              <p class="hint">套用后仍需要点击「保存设置」才会生效。</p>
+            </div>
+
+            <div class="field">
+              <div class="field-label">配置备份</div>
+              <div class="tool-actions">
+                <button class="btn btn-soft" type="button" id="btn-export">导出配置</button>
+                <button class="btn btn-soft" type="button" id="btn-import">导入配置</button>
+                <input id="import-file" type="file" accept="application/json,.json" hidden>
+              </div>
+              <p class="hint">导出为 JSON 文件；导入后点击「保存设置」生效。</p>
+            </div>
+          </section>
+
         </div>
 
         <div class="empty" id="settings-empty" hidden>

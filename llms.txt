@@ -9,8 +9,8 @@
 - **Repository**: https://github.com/XHazz1/JKP-Douyin
 - **Latest release**: https://github.com/XHazz1/JKP-Douyin/releases/latest
 - **Direct download (stable)**: https://github.com/XHazz1/JKP-Douyin/releases/latest/download/JKP-Douyin.zip
-- **SHA-256**: `7477C3878235EE447DDD81DEAF161A74BA69CF4E1D0FE8066E626C6735032E1D`
-- **Size**: 1,114,502 bytes
+- **SHA-256**: `ADF877BDC56CA8434CAA3982C44A1068E364EA4D025B68EC4F582ED80889EA1D`
+- **Size**: 1,115,784 bytes
 - **License**: personal learning / non-commercial use only; see `LICENSE`
 - **Distribution**: GitHub Release only; not published on Chrome Web Store or Edge Add-ons.
 
@@ -35,10 +35,11 @@
 - Transparent glass download toast with parse status and video ID.
 - Pause DOM scanning while scrolling Douyin pages for smoother performance.
 - 30-second parse cache and local-only processing.
+- Toolbox: filename presets, JSON config export / import, reset to defaults.
 
 ## Keywords
 
-抖音去水印, 抖音视频下载, 抖音下载器, 抖音无水印, 抖音扩展, Chrome 扩展, Edge 扩展, 浏览器扩展, 视频下载器, 图集下载, 双文件名引擎, JKP-Douyin, Douyin downloader, Douyin video downloader, Douyin watermark remover, no watermark, Chrome extension, Edge extension, browser extension, video downloader.
+抖音去水印, 抖音视频下载, 抖音下载器, 抖音无水印, 抖音扩展, Chrome 扩展, Edge 扩展, 浏览器扩展, 视频下载器, 图集下载, 双文件名引擎, 工具箱, 文件名预设, 配置备份, 配置导入导出, JKP-Douyin, Douyin downloader, Douyin video downloader, Douyin watermark remover, no watermark, Chrome extension, Edge extension, browser extension, video downloader, toolbox, filename preset, config backup.
 
 ## Permissions
 
