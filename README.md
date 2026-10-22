@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Edge-支持-0078D6?style=for-the-badge&amp;logo=microsoftedge&amp;logoColor=white" alt="Edge" />
   <img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />
+  <a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E5%92%96%E5%95%A1-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
 </p>
 
 <p>
@@ -66,6 +67,7 @@
 - 📈 项目数据
 - ❓ 常见问题
 - 💖 支持作者
+- ☕ 赞助支持
 - ⚖️ 声明与禁止事项
 
 </details>
@@ -285,6 +287,50 @@ Firefox : about:debugging#/runtime/this-firefox
 
 - 抖音：[伐浩](https://www.douyin.com/user/MS4wLjABAAAApL6WdWT0Fi-l8bPuo5UpBDXhzYs0zC9i7V06NypCGmK4ZmO5GAKfSyHo_RYMsOm6?from_tab_name=main)
 - B 站：[space.bilibili.com/493062255](https://space.bilibili.com/493062255)
+
+## ☕ 赞助支持
+
+<div align="center">
+  <a href="https://github.com/XHazz1/JKP-Douyin/blob/main/docs/sponsor-qr.jpg">
+    <img src="docs/sponsor-card.png" width="92%" alt="扫码请作者喝咖啡" />
+  </a>
+  <br/>
+  <sub>扫码请作者喝一杯咖啡 · 赞助完全自愿，扩展功能永久免费</sub>
+</div>
+
+<div align="center">
+  <img src="docs/sponsor-qr.jpg" width="210" alt="赞助二维码" />
+  <br/>
+  <sub>如果图片被压缩，可直接扫这张原始码</sub>
+</div>
+
+### 🏆 赞助者墙
+
+| 赞助者 | 留言 | 日期 |
+| :---: | :--- | :---: |
+| 虚位以待 | 第一位赞助者就是你 ✨ | — |
+
+> 赞助后欢迎在 B 站 / Issues 留言你的 GitHub ID 或昵称，我会把你加到墙上（也可以匿名）。
+
+### 🎁 赞助档位（随喜）
+
+| 档位 | 金额 | 你会得到 |
+| :---: | :---: | :--- |
+| ☕ 咖啡 | ¥6.60 | 赞助者墙署名 + 一句感谢 |
+| 🍗 鸡腿 | ¥20 | 以上 + 优先回复 |
+| 🚀 火箭 | ¥50 | 以上 + 功能许愿优先 |
+| 👑 金主 | ¥100 | 以上 + 定制文件名规则 / 专属感谢 |
+
+> 当前二维码为 **¥6.60 咖啡档**；想选其他档位，可在 B 站 / Issues 留言，我会单独发收款方式。赞助不是购买服务，扩展功能不会因为赞助而解锁或加锁。
+
+### ❤️ 其他支持方式
+
+- ⭐ **Star** 本仓库，让更多人看到
+- 🍴 **Fork / 分享** 给需要的朋友
+- 🐛 **提 Issue** 反馈问题或许愿功能
+- 📺 **关注** 抖音 / B 站，第一时间看到更新
+
+> 所有赞助都会用于维护扩展和买咖啡；感谢每一位愿意支持的个人用户。
 
 ## ⚖️ 声明与禁止事项
 
