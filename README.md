@@ -307,7 +307,7 @@ Firefox : about:debugging#/runtime/this-firefox
 ## 🍵 赞助支持
 
 <div align="center">
-  <a href="https://github.com/XHazz1/JKP-Douyin/blob/main/docs/sponsor-qr.jpg">
+  <a href="https://github.com/XHazz1/JKP-Douyin/blob/main/docs/sponsor-qr.png">
     <img src="docs/sponsor-tea.png" width="78%" alt="请作者喝一杯茶" />
   </a>
   <br/>
