@@ -312,8 +312,8 @@ Firefox : about:debugging#/runtime/this-firefox
 
 <img src="docs/sponsor-qr.png" width="250" alt="赞助二维码" />
 
-<p><b>扫码请作者喝一杯珍珠奶茶</b></p>
-<p>微信 / 支付宝 · 一杯 ¥6.60</p>
+<p><b>打开支付宝，扫码请作者喝一杯珍珠奶茶</b></p>
+<p><b>支付宝扫码</b> · 一杯 ¥6.60</p>
 
 </td>
 <td width="56%" valign="middle">
