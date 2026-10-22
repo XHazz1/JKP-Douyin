@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Chrome-支持-4FC921?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome" />&nbsp;<img src="https://img.shields.io/badge/Edge-支持-0078D6?style=for-the-badge&amp;logo=microsoftedge&amp;logoColor=white" alt="Edge" />&nbsp;<img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />&nbsp;<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />&nbsp;<a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E8%8C%B6%E5%AE%9D%E5%96%9D%E5%A5%B6%E8%8C%B6-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
+  <img src="https://img.shields.io/badge/Chrome-支持-4FC921?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Chrome" />&nbsp;<img src="docs/badge-edge.svg" height="28" alt="Edge" />&nbsp;<img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />&nbsp;<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />&nbsp;<a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E8%8C%B6%E5%AE%9D%E5%96%9D%E5%A5%B6%E8%8C%B6-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
 </p>
 
 <p>
