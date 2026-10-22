@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%E4%BD%BF%E7%94%A8%E9%87%8F-10w%2B-4FC921?style=flat-square" alt="usage" />&nbsp;<img src="https://img.shields.io/github/stars/XHazz1/JKP-Douyin?style=flat-square&amp;label=Star&amp;color=FFD166" alt="stars" />&nbsp;<img src="https://img.shields.io/github/forks/XHazz1/JKP-Douyin?style=flat-square&amp;label=Fork&amp;color=5B8CFF" alt="forks" />&nbsp;<img src="https://img.shields.io/github/issues/XHazz1/JKP-Douyin?style=flat-square&amp;label=Issues&amp;color=FB7185" alt="issues" />&nbsp;<img src="https://img.shields.io/badge/PRs-welcome-22D3EE?style=flat-square" alt="PRs welcome" />&nbsp;<img src="https://komarev.com/ghpvc/?username=XHazz1&amp;repo=JKP-Douyin&amp;label=Views&amp;color=5B8CFF&amp;style=flat-square" alt="views" />
+  <img src="https://img.shields.io/badge/%E4%BD%BF%E7%94%A8%E9%87%8F-10w-4FC921?style=flat-square" alt="usage" />&nbsp;<img src="https://img.shields.io/github/stars/XHazz1/JKP-Douyin?style=flat-square&amp;label=Star&amp;color=FFD166" alt="stars" />&nbsp;<img src="https://img.shields.io/github/forks/XHazz1/JKP-Douyin?style=flat-square&amp;label=Fork&amp;color=5B8CFF" alt="forks" />&nbsp;<img src="https://img.shields.io/github/issues/XHazz1/JKP-Douyin?style=flat-square&amp;label=Issues&amp;color=FB7185" alt="issues" />&nbsp;<img src="https://img.shields.io/badge/PRs-welcome-22D3EE?style=flat-square" alt="PRs welcome" />&nbsp;<img src="https://komarev.com/ghpvc/?username=XHazz1&amp;repo=JKP-Douyin&amp;label=Views&amp;color=5B8CFF&amp;style=flat-square" alt="views" />
 </p>
 
 <br/>
