@@ -39,6 +39,11 @@
 | v2.2 | 2026.10.15 | 推荐流卡片按钮、解析下载并行、设置页改版 |
 | v2.1 | 早期 | 液态玻璃 UI、双文件名逻辑、30 秒缓存 |
 
+> 本仓库从 **v2.3.2** 开始独立维护；v2.1 / v2.2 / v2.3 的官方归档见上游 Releases：
+> [v2.3](https://github.com/HaoBaB521/JKP-Video-Downloader/releases/tag/v2.3) ·
+> [v2.2](https://github.com/HaoBaB521/JKP-Video-Downloader/releases/tag/v2.2) ·
+> [v2.1](https://github.com/HaoBaB521/JKP-Video-Downloader/releases/tag/v2.1)
+
 ## 本次更新（v2.3.2）
 
 ### ✨ 新增
