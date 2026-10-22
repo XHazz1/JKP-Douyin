@@ -22,7 +22,6 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/downloads/XHazz1/JKP-Douyin/total?style=flat-square&amp;label=下载&amp;color=4FC921" alt="downloads" />
   <img src="https://img.shields.io/github/stars/XHazz1/JKP-Douyin?style=flat-square&amp;label=Star&amp;color=FFD166" alt="stars" />
   <img src="https://img.shields.io/github/forks/XHazz1/JKP-Douyin?style=flat-square&amp;label=Fork&amp;color=5B8CFF" alt="forks" />
   <img src="https://img.shields.io/github/issues/XHazz1/JKP-Douyin?style=flat-square&amp;label=Issues&amp;color=FB7185" alt="issues" />
