@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Edge-支持-0078D6?style=for-the-badge&amp;logo=microsoftedge&amp;logoColor=white" alt="Edge" />
   <img src="https://img.shields.io/badge/Firefox-支持-FF7139?style=for-the-badge&amp;logo=firefox&amp;logoColor=white" alt="Firefox" />
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20%26%20%E2%98%95-FF4D6D?style=for-the-badge" alt="made with love" />
-  <a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E4%BD%9C%E8%80%85%E5%96%9D%E8%8C%B6-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
+  <a href="#-赞助支持"><img src="https://img.shields.io/badge/Sponsor-%E8%AF%B7%E8%8C%B6%E5%AE%9D%E5%96%9D%E5%A5%B6%E8%8C%B6-EA4AAA?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=white" alt="sponsor" /></a>
 </p>
 
 <p>
@@ -68,7 +68,7 @@
 - ❓ 常见问题
 - 💖 支持作者
 - ⚖️ 声明与禁止事项
-- 🍵 赞助支持
+- 🧋 赞助支持
 
 </details>
 
@@ -304,40 +304,63 @@ Firefox : about:debugging#/runtime/this-firefox
 
 通过本扩展下载的视频仅供个人收藏与学习使用，请勿用于商业用途或二次传播。
 
-## 🍵 赞助支持
+## 🧋 赞助支持
 
-<div align="center">
-  <a href="https://github.com/XHazz1/JKP-Douyin/blob/main/docs/sponsor-qr.png">
-    <img src="docs/sponsor-hero.png" width="82%" alt="JKP-Douyin 赞助计划：请作者喝一杯茶" />
-  </a>
-  <br/>
-  <sub>扫码请作者喝一杯茶 · 赞助完全自愿，扩展功能永久免费</sub>
-  <br/>
-  <sub>赞助计划吉祥物：Q 版珍珠奶茶「茶宝」</sub>
-</div>
+<table>
+<tr>
+<td align="center" width="44%" valign="middle">
 
-### 📱 三步请茶
+<img src="docs/sponsor-qr.png" width="250" alt="赞助二维码" />
+
+<p><b>扫码请作者喝一杯珍珠奶茶</b></p>
+<p>微信 / 支付宝 · 一杯 ¥6.60</p>
+
+</td>
+<td width="56%" valign="middle">
+
+<p align="center"><img src="docs/bubble-tea.png" width="82" alt="茶宝" /></p>
+
+<h3 align="center">¥6.60 · 一杯珍珠奶茶</h3>
+
+<p><b>✨ 6 块钱，不多，但能让茶宝开心一整天 ✨</b></p>
+
+<ul>
+<li>🧋 <b>一杯珍珠奶茶</b>：请作者喝一杯</li>
+<li>🧱 <b>赞助者墙署名</b>：可选 GitHub ID</li>
+<li>💬 <b>优先回复</b>：B 站 / Issues</li>
+<li>🔓 <b>功能永久免费</b>：不锁任何功能</li>
+</ul>
+
+<blockquote>
+🧡 <b>感谢每一位请茶宝喝奶茶的朋友，你们的名字会出现在赞助者墙。</b>
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+### 📱 三步请奶茶
 
 | ① 扫码 | ② 备注 | ③ 上墙 |
 | :---: | :---: | :---: |
-| 扫上方二维码，¥6.60 一杯茶 | 留言备注 GitHub ID / 昵称 | 我会把你加到赞助者墙 |
+| 扫旁边二维码，¥6.60 一杯 | 留言 GitHub ID / 昵称 | 加入赞助者墙 |
 
-### 🫖 茶摊菜单
+### 🧋 奶茶菜单
 
-| 茶点 | 金额 | 心意 |
+| 奶茶 | 金额 | 心意 |
 | :---: | :---: | :--- |
-| 🍵 清茶 `推荐` | ¥6.60 | 赞助者墙署名 + 一句感谢 |
-| 🍰 茶点 | ¥20 | 以上 + 优先回复 |
-| 🫖 一壶茶 | ¥50 | 以上 + 功能许愿优先 |
+| 🧋 珍珠奶茶 `推荐` | ¥6.60 | 赞助者墙署名 + 一句感谢 |
+| 🍰 奶盖茶 | ¥20 | 以上 + 优先回复 |
+| 🫖 一桶奶茶 | ¥50 | 以上 + 功能许愿优先 |
 | 🎁 包场 | ¥100 | 以上 + 定制文件名规则 / 专属感谢 |
 
-> 当前二维码为 **¥6.60 清茶档**；想选其他茶点，可在 B 站 / Issues 留言，我会单独发收款方式。赞助不是购买服务，扩展功能不会因为赞助而解锁或加锁。
+> 当前二维码为 **¥6.60 珍珠奶茶档**；想选其他奶茶，可在 B 站 / Issues 留言，我会单独发收款方式。赞助不是购买服务，扩展功能不会因为赞助而解锁或加锁。
 
 ### 🏆 赞助者墙
 
 | 赞助者 | 留言 | 日期 |
 | :---: | :--- | :---: |
-| 虚位以待 | 第一位茶客就是你 ✨ | — |
+| 虚位以待 | 第一位奶茶赞助者就是你 🧋 | — |
 
 > 赞助后欢迎在 B 站 / Issues 留言你的 GitHub ID 或昵称，我会把你加到墙上（也可以匿名）。
 
@@ -348,9 +371,7 @@ Firefox : about:debugging#/runtime/this-firefox
 - 🐛 **提 Issue** 反馈问题或许愿功能
 - 📺 **关注** 抖音 / B 站，第一时间看到更新
 
-> 所有赞助都会用于维护扩展和买茶；感谢每一位愿意支持的个人用户。
-
-
+> 🧡 所有赞助都会用于维护扩展和买珍珠奶茶；谢谢你们。
 ---
 
 <div align="center">
